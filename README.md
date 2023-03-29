@@ -18,6 +18,3 @@ Technical Docs:
 2. Bootstrap Packages.
 3. SQL Database backup and script.
 
-Preview Docs:
-1. Functional and Technical videos.
->>>>>>> b527590 (Initial commit)
